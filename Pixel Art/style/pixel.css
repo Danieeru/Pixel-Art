@@ -1,0 +1,124 @@
+*{
+    box-sizing: border-box;
+    background-color: rgb(141, 98, 98);
+}
+
+.cuadrado {
+    width:91.3vh;
+    max-width:4000px;
+    height:91.3vh;
+    max-height:4000px;
+    position:relative;
+    border: 1px solid rgb(255, 255, 255);
+  }
+
+.negro{
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid rgb(0, 0, 0);
+    height: 25px;
+    width: 25px;
+    float: left;
+    background-color: rgb(0, 0, 0);
+}
+
+.blanco{
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid rgb(255, 255, 255);
+    height: 25px;
+    width: 25px;
+    float: left;
+    background-color: rgb(255, 255, 255);
+}
+
+.cafe{
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid rgb(168, 139, 120);
+    height: 25px;
+    width: 25px;
+    float: left;
+    background-color: rgb(168, 139, 120);
+}
+
+.cinturon{
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid rgb(153, 106, 18);
+    height: 25px;
+    width: 25px;
+    float: left;
+    background-color: rgb(153, 106, 18);
+}
+
+.cinturonUno{
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid rgb(170, 136, 73);
+    height: 25px;
+    width: 25px;
+    float: left;
+    background-color: rgb(170, 136, 73);
+}
+
+.pantalonazul{
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid rgb(53, 56, 102);
+    height: 25px;
+    width: 25px;
+    float: left;
+    background-color: rgb(53, 56, 102);
+}
+
+.azul{
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid rgb(26, 29, 78);
+    height: 25px;
+    width: 25px;
+    float: left;
+    background-color: rgb(26, 29, 78);
+}
+
+.piel{
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid rgb(253, 221, 202);
+    height: 25px;
+    width: 25px;
+    float: left;
+    background-color: rgb(253, 221, 202);
+}
+
+.pielOscuro{
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid rgb(214, 168, 142);
+    height: 25px;
+    width: 25px;
+    float: left;
+    background-color: rgb(214, 168, 142);
+}
+
+.celeste{
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid rgb(0, 116, 248);
+    height: 25px;
+    width: 25px;
+    float: left;
+    background-color: rgb(0, 116, 248);
+}
+
+.ojos{
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid rgba(19, 199, 49, 0.952);
+    height: 25px;
+    width: 25px;
+    float: left;
+    background-color: rgba(19, 199, 49, 0.952);
+}
+
